@@ -1,7 +1,7 @@
-
+streamlit
 tensorflow
 pandas
 numpy
 scikit-learn
-streamlit
-pickle-mixin
+nltk
+keras
